@@ -13,6 +13,15 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 To develop a machine learning model that accurately detects credit card fraud and helps minimize financial loss by identifying suspicious transactions in real time.
 
+---
+
+## 🗃️ Dataset
+
+- **Source:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- **Description:**
+  - European cardholders' transaction data (anonymized)
+  - 284,807 transactions with 492 fraud cases
+  - Features: V1 to V28 (PCA-transformed), `Amount`, `Time`, and `Class` (0 = valid, 1 = fraud)
 
 ---
 
